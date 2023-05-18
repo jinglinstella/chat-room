@@ -1,0 +1,1 @@
+A simple chat application with a ChatServer that accepts multiple connections from ChatClient. Once the chat client is connected, anything a user types in the chat client can be seen by all other connected clients.
